@@ -1,4 +1,4 @@
-# @diegorv .dotfiles
+# @RalfNunes .dotfiles
 > macOS and developer environment preferences with Brew/Git/Rbenv/ZSH
 
 # Setup
@@ -9,7 +9,7 @@ Copy this command into the terminal, and the setup will start.
 
 ```bash
 cd ~/
-git clone https://github.com/diegorv/dotfiles.git .dotfiles
+git clone https://github.com/RalfNunes/dotfiles.git .dotfiles
 cd .dotfiles && ./setup.sh
 ```
 
